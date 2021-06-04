@@ -1,0 +1,27 @@
+﻿<!--bind value comunica la variable mensaje y se puede cambiar-->
+<input type="text" @bind-value="@mensaje" />
+<input type="text" @bind-value="@mensaje2" />
+<input type="button" value="Haga clic aqui" @onclick="ChangeText" />
+
+<div>
+    @mensaje
+</div>
+
+@code{
+    [Parameter]
+    public string Message { get; set; }
+
+    string mensaje = "Un contenido";
+    string mensaje2 = "Un contenido";
+
+    protected override async Task OnInitializedAsync()
+    {
+        mensaje = Message;
+    }
+
+    private void ChangeText()
+    {
+        mensaje = mensaje2;
+    }
+
+}

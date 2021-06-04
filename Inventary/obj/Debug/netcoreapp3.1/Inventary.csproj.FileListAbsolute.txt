@@ -1,0 +1,380 @@
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorComponent.input.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\ListCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\CreateProductoComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\ListProductsComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\UpdateProductComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\InOuts\InOutPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\CreateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\ListProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\UpdateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Inventary.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.input.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.output.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorCoreGenerate.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\ListCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\CreateProductoComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\ListProductsComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\UpdateProductComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\InOuts\InOutPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\ListProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\UpdateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.Views.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.exe
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.runtimeconfig.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.runtimeconfig.dev.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.Views.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.Views.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorComponent.input.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\ListCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\CreateProductoComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\ListProductsComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\UpdateProductComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\InOuts\InOutPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\CreateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\ListProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\UpdateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorComponent.output.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Inventary.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.input.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.output.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorCoreGenerate.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\ListCategoryComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\CreateProductoComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\ListProductsComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\UpdateProductComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\InOuts\InOutPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\ListProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\UpdateProductPage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\staticwebassets\Inventary.StaticWebAssets.Manifest.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\staticwebassets\Inventary.StaticWebAssets.xml
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\scopedcss\bundle\Inventary.styles.css
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.Views.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.genruntimeconfig.cache
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.exe
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.deps.json
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.runtimeconfig.json
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.runtimeconfig.dev.json
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.pdb
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.Views.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Inventary.Views.pdb
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Inventary\Inventary\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csprojAssemblyReference.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfoInputs.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.AssemblyInfo.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csproj.CoreCompileInputs.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.MvcApplicationPartsAssemblyInfo.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorComponent.input.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Category\ListCategoryComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\CreateProductoComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\ListProductsComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Products\UpdateProductComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\InOuts\InOutPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\CreateProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\ListProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Products\UpdateProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorComponent.output.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\RazorDeclaration\Inventary.dll
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.input.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.TagHelpers.output.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorCoreGenerate.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\CreateCategoryComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Category\ListCategoryComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\BlazorPages\Form001.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Ejercicios\Forms\Form002.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\InOuts\CreateInOutComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\CreateProductoComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\ListProductsComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Products\UpdateProductComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Storages\CreateStorageComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Component\Warehouse\ListWarehouseComponent.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\CategoryCreatePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Categories\ListCategoryPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\InOuts\InOutPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\CreateProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\ListProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Products\UpdateProductPage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Storages\CreateStoragePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Warehouses\ListWarehousePage.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorAssemblyInfo.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\staticwebassets\Inventary.StaticWebAssets.Manifest.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\staticwebassets\Inventary.StaticWebAssets.xml
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\scopedcss\bundle\Inventary.styles.css
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cache
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.RazorTargetAssemblyInfo.cs
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.Views.pdb
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.csproj.CopyComplete
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.dll
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.pdb
+D:\Inventary\Inventary\obj\Debug\netcoreapp3.1\Inventary.genruntimeconfig.cache

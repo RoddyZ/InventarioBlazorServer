@@ -1,0 +1,52 @@
+﻿@using Entities
+@using Business
+@inject NavigationManager NavManager
+
+<EditForm Model="product">
+    <div class="form-group">
+        <label> Producto: </label>
+        <InputText class="form-control" @bind-Value="product.ProductName" />
+    </div>
+
+    <div class="form-group">
+        <label> Descripcion: </label>
+        <InputTextArea class="form-control" @bind-Value="product.ProductDescription" />
+    </div>
+
+    <div class="form-group">
+        <label>Categoria: </label>
+        <InputSelect @bind-Value="product.CategoryId" class="form-control">
+
+            //recorremos la categoria de abajo
+            @foreach (var category in categories)
+            {
+                <!--//cogera (enviara a la base el Id de la categoria debido a la relacion de las tablas) el valor del id, pero mostrara el nombre-->
+                <option value="@category.CategoryId">@category.CategoryName</option>
+            }
+        </InputSelect>
+    </div>
+
+    <input type="button" value="Editar producto" @onclick="UpdateProduct" />
+
+</EditForm>
+
+@code {
+    [Parameter]
+    public string IdProduct { get; set; }
+
+    ProductEntity product = new ProductEntity();
+    List<CategoryEntity> categories = new List<CategoryEntity>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        categories = B_Category.CategoryList();
+        product = B_Product.GetProduct(IdProduct);
+    }
+
+    private void UpdateProduct()
+    {
+        B_Product.UpdateProduct(product);
+        NavManager.NavigateTo("product/list");
+
+    }
+}

@@ -1,0 +1,45 @@
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Inventary\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Inventary\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

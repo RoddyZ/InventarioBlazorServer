@@ -1,0 +1,70 @@
+﻿@using Entities
+@using Business
+
+@inject NavigationManager NavManager
+
+<div>
+    <EditForm Model="oProduct">
+        <!--Guardamos el Id-->
+        <div class="form-group">
+            <label>Referencia: </label>
+            <InputText @bind-Value="oProduct.ProductId" class="form-control" />
+        </div>
+        <!--Guardamos el Nombre-->
+        <div class="form-group">
+            <label>Nombre del producto: </label>
+            <InputText @bind-Value="oProduct.ProductName" class="form-control" />
+        </div>
+        <!--Guardamos la descripcions-->
+        <div class="form-group">
+            <label>Descripcion del producto: </label>
+            <InputTextArea @bind-Value="oProduct.ProductDescription" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Categoria: </label>
+            <InputSelect @bind-Value="oProduct.CategoryId" class="form-control">
+
+                //recorremos la categoria de abajo
+                @foreach (var category in categories)
+                {
+                    <!--//cogera (enviara a la base el Id de la categoria debido a la relacion de las tablas) el valor del id, pero mostrara el nombre-->
+                    <option value="@category.CategoryId">@category.CategoryName</option>
+                }
+            </InputSelect>
+        </div>
+
+        <input type="button" value="Agregar producto" @onclick="SaveProduct" />
+    </EditForm>
+
+</div>
+
+
+
+
+
+@code {
+
+    ProductEntity oProduct = new ProductEntity();
+
+    List<CategoryEntity> categories = new List<CategoryEntity>();
+
+    //metodo cuando inicia la pagina
+    protected override async Task OnInitializedAsync()
+    {
+        categories = B_Category.CategoryList();
+    }
+
+    private void SaveProduct()
+    {
+        if (oProduct.CategoryId == null)
+        {
+            oProduct.CategoryId = "ASH";
+        }
+        B_Product.CreateProduct(oProduct);
+        //despues que guarde la informacion, navegaremos hacia la pagina indicada
+        NavManager.NavigateTo("product/list");
+    }
+
+}
+
+

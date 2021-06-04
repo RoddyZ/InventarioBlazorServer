@@ -1,0 +1,27 @@
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+D:\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Inventary\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Inventary\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

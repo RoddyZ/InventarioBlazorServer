@@ -1,0 +1,72 @@
+﻿@using Entities
+@using Business
+
+<EditForm Model="storage">
+    <div class="form-group">
+        <label>Bodega:</label>
+        <InputSelect @bind-Value="@storage.WarehouseId" class="form-control">
+            <option value="">Selecciona una Bodega...</option>
+            @foreach (var bodega in warehouses)
+            {
+                <option value="@bodega.WarehouseId">@bodega.WarehouseName</option>
+            }
+        </InputSelect>
+    </div>
+
+    <div class="form-group">
+        <label>Productos:</label>
+        <InputSelect @bind-Value="@storage.ProductId" class="form-control">
+            <option value="">Selecciona un producto...</option>
+            @foreach (var producto in products)
+            {
+                <option value="@producto.ProductId">@producto.ProductName</option>
+            }
+        </InputSelect>
+    </div>
+
+    <input type="button" value="Almacenar producto" @onclick="SaveStorage"/>
+</EditForm>
+
+<div class="text-center h4">
+    @message
+</div>
+
+
+
+@code {
+    StorageEntity storage = new StorageEntity();
+
+    //se crean las listas xq una bodehga tiene varias ubicaciones y productos
+    List<WarehouseEntity> warehouses = new List<WarehouseEntity>();
+    List<ProductEntity> products = new List<ProductEntity>();
+
+
+    string message;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products=B_Product.ProductList();
+        warehouses = B_Warehouse.WarehouseList();
+    }
+
+    private void SaveStorage()
+    {
+        storage.StorageId = $"{storage.WarehouseId}-{storage.ProductId}";
+
+        //preguntaremos si existe el producto en la bodega, solo guardara si no existe False
+        if (B_Storage.IsProductInWareHouse(storage.StorageId) == false)
+        {
+            storage.LastUpdate = DateTime.Now;
+            B_Storage.CreateStorage(storage);
+            message = "Producto registrado";
+        }
+        else
+        {
+            message = "Producto ya existe en bodego";
+        }
+
+
+    }
+
+
+}

@@ -1,0 +1,42 @@
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\ZamoraRoddyProyectoTitulacion\04Cuso de Desarrollo Web con Blazor y NET\Inventary\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\OneDrive - Escuela Politécnica Nacional\EPN\Proyecto de titulacion\04Blazor\Inventary\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Inventary\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Inventary\Business\obj\Debug\netcoreapp3.1\Business.pdb
