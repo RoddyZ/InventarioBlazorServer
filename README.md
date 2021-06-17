@@ -9,6 +9,7 @@ Nota: El string de conexión se debe configurar en DataAccess --> InventaryConte
 
 Autor: 
 
-Roddy Zamora: https://www.linkedin.com/in/roddy-steeven-zamora-rodr%C3%ADguez-58a116167/
+Roddy Zamora: <a href="https://www.linkedin.com/in/roddy-steeven-zamora-rodr%C3%ADguez-58a116167/" target="_blank">Mi linkedin</a>
+
 
 
